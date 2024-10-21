@@ -1,4 +1,7 @@
 #!/bin/bash
+cd ~/Desktop/tmp/daily-commit
+echo "Current directory: $(pwd)"
+echo "Script path: \$0"
 
 # 设置变量
 REPO_DIR="."  # 替换为你的仓库路径
